@@ -34,15 +34,7 @@ Here's a walkthrough of implemented features:
 GIF created with
 
 - [x] ScreenToGif
-
-## Notes
-
-    Features
-
-    1. button hover animation involves a button with an :after pseudo-element that creates a dynamic background effect when hovered. Initially, the pseudo-element is positioned far to the left and slightly upward, with a 45-degree clockwise rotation. On hover, it smoothly shifts horizontally closer to the button's center while maintaining its vertical position and rotation. This movement is animated over 0.5 seconds, using an ease-in-out timing function, resulting in a subtle yet engaging visual transition as the background element slides into view.
-
-    2. The JavaScript code snippet sets up a search functionality for an HTML input field (searchBox). As the user types in the search box, an event listener triggers a real-time filter on a list of games (GAMES_JSON). It compares the input keyword with the names of the games, filtering out those that don't match. The filtered results are then dynamically updated on the webpage by clearing the current content (gamesContainer) and displaying the matching games using the addGamesToPage function. This provides an interactive, instant search experience based on the user's input.
-
+   
 ## License
 
     Copyright [2024] [Srikanth Reddy Mallepally]
