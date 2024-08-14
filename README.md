@@ -8,17 +8,12 @@ Time spent: **80** hours spent in total
 
 # Instructions to run this game:
 
----
-
 1. Install turboc or devc++ compiler.
 2. In turboc3 or(turboc4) compiler c:TurboC++\Disk\TurboC3\BGI
 3. Similarly in an other compiler also go to bgi folder and copy the code file.
 4. Run the code
 
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
 - [x] The User can choose the color of the car.
 - [x] The User can choose layout(City, Forest, Village).
 - [x] Finally the score will be displayed.
