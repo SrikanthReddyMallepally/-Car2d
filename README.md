@@ -2,12 +2,14 @@
 
 Submitted by: **Srikanth Reddy Mallepally**
 
-****Car 2D**** is a Simulation of movement of car using C graphics.h library
+\***\*Car 2D\*\*** is a Simulation of movement of car using C graphics.h library
 
 Time spent: **80** hours spent in total
 
 # Instructions to run this game:
-----------------------------------------
+
+---
+
 1. install turboc or devc++ compiler.
 2. In turboc4 compiler c:TurboC++\Disk\TurboC3\BGI
 3. similarly in an other compiler also go to bgi folder and copy the code file.
@@ -21,12 +23,11 @@ The following **required** functionality is completed:
 - [x] The User can choose layout(City, Forest, Village).
 - [x] finally the score is displayed.
 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/SrikanthReddyMallepally/Car2d/blob/main/card-2d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/SrikanthReddyMallepally/Car2d/blob/main/car2d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
