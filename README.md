@@ -1,8 +1,8 @@
-# Car 2D Game using C Greaphics Libraries
+# Car 2D Game using C Graphics Libraries
 
 Submitted by: **Srikanth Reddy Mallepally**
 
-\***\*Car 2D\*\*** is a Simulation of movement of car using C graphics.h library
+**Car 2D** is a Simulation of movement of car using C graphics.h library
 
 Time spent: **80** hours spent in total
 
@@ -10,10 +10,10 @@ Time spent: **80** hours spent in total
 
 ---
 
-1. install turboc or devc++ compiler.
-2. In turboc4 compiler c:TurboC++\Disk\TurboC3\BGI
-3. similarly in an other compiler also go to bgi folder and copy the code file.
-4. run the code
+1. Install turboc or devc++ compiler.
+2. In turboc3 or(turboc4) compiler c:TurboC++\Disk\TurboC3\BGI
+3. Similarly in an other compiler also go to bgi folder and copy the code file.
+4. Run the code
 
 ## Required Features
 
@@ -21,15 +21,13 @@ The following **required** functionality is completed:
 
 - [x] The User can choose the color of the car.
 - [x] The User can choose layout(City, Forest, Village).
-- [x] finally the score is displayed.
+- [x] Finally the score will be displayed.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <img src='./car2d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with
 
